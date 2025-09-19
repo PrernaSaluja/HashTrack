@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HashTrack</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>📦 HashTrack</h1>
+    <div class="container">
+        <input type="text" id="fileHash" placeholder="Enter file hash">
+        <input type="text" id="fileName" placeholder="Enter file name">
+        <button onclick="uploadFile()">Upload File</button>
+
+        <hr>
+
+        <button onclick="getFiles()">Get My Files</button>
+        <ul id="fileList"></ul>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/ethers/dist/ethers.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
