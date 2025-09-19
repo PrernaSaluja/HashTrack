@@ -1,5 +1,3 @@
-<img width="1920" height="445" alt="image" src="https://github.com/user-attachments/assets/81e20b03-fd1d-4cae-8621-a6308890d8f1" /># HashTrack
-
 ## 📄 Project Description
 HashTrack is a decentralized file tracking system that allows users to upload and store file hashes on the Ethereum blockchain for proof-of-existence and integrity verification.
 
