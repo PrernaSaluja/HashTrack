@@ -18,3 +18,4 @@ To create a tamper-proof, transparent, and decentralized way to track and verify
 - Hash verification by third-party verifiers.
 - Frontend improvements and file preview options.
 - Layer 2 integration for lower gas fees.
+- contract address:0xea304b2dAC18Ea3D65B191c8BfcBc136b5484D45
