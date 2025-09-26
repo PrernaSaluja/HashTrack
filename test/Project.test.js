@@ -17,3 +17,4 @@ describe("Project contract", function () {
         expect(files[0].fileHash).to.equal("QmHash123");
     });
 });
+
