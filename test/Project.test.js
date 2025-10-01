@@ -6,7 +6,7 @@ describe("Project contract", function () {
     beforeEach(async () => {
         const Project = await ethers.getContractFactory("Project");
         [owner] = await ethers.getSigners();
-        project = await Project.deploy();
+        project = await Project.deploy(); 
     });
 
     it("Should upload and retrieve a file", async function () {
