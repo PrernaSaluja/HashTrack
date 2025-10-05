@@ -5,7 +5,7 @@ contract HashTrack {
     
     struct Product {
         uint id;
-        string name;
+        string name; 
         string description;
         address manufacturer;
         bool isVerified;
