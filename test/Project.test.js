@@ -1,6 +1,6 @@
 const { expect } = require("chai");
 
-describe("Project contract", function () {
+describe("Project contract", function () { 
     let project, owner; 
 
     beforeEach(async () => {
