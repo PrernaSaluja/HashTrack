@@ -7,7 +7,7 @@ contract HashTrack {
         uint id;
         string name; 
         string description;
-        address manufacturer;
+        address manufacturer; 
         bool isVerified;
         uint timestamp;
     }
