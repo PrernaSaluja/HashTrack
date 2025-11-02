@@ -1,7 +1,7 @@
 const contractAddress = 'YOUR_CONTRACT_ADDRESS';
 const abi = [ 
     {
-        "inputs": [
+        "inputs": [  
             { "internalType": "string", "name": "_fileHash", "type": "string" },
             { "internalType": "string", "name": "_fileName", "type": "string" }
         ],
