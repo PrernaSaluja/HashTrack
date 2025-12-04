@@ -1,5 +1,5 @@
 ## 📄 Project Description  
-HashTrack is a decentralized file tracking system that allows users to upload and store file hashes on the Ethereum blockchain for proof-of-existence and integrity verification.    
+HashTrack is a decentralized file tracking system that allows users to upload and store file hashes on the Ethereum blockchain for proof-of-existence and integrity verification.     
   
 ## 🌟 Project Vision  
 To create a tamper-proof, transparent, and decentralized way to track and verify digital documents using blockchain technology.
